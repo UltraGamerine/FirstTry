@@ -1,6 +1,6 @@
-##### This is not a real site, and created for learning website creation
-
 ## Welcom To EasySanskrit.com
+
+##### This is not a real site, and created for learning website creation
 
 ### Learn Sanskrit Easily
 
@@ -9,30 +9,22 @@ And it is going to be super **Intuitive!**
 ## Learning Sanskrit Has Never Been This Easy!
 Take easy steps. Learn about Noun Cases, and the Verb paradigm consisting of Moods, Aspects, and Tenses.
 
-### Markdown
+### Noun Cases
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Nominative
+Accusative
+Instrumental
+Dative
+Ablative
+Genetive
+Locative
+Vocative
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Case Charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Coming Soon!
