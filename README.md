@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Learn It!"
 permalink: https://ultragamerine.github.io/FirstTry/
-
+---
 ## Welcome To EasySanskrit
 
 ##### This is not a real site, and has been created for learning website creation
