@@ -1,7 +1,7 @@
 ---
 layout: page
 title: learningHtml
-theme: theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 ---
 
 ## Welcome to GitHub Pages
