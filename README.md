@@ -1,6 +1,6 @@
-## Welcome To EasySanskrit.com
+# Welcome To EasySanskrit
 
-##### This is not a real site, and created for learning website creation
+##### This is not a real site, and has been created for learning how website are created
 
 ## Learn Sanskrit Easily
 
