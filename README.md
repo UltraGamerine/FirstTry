@@ -53,3 +53,6 @@ Wondering what is "ā" and what's the difference between ' ā ' & ' a ' ?
 
 ### Support or Contact
 Coming Soon!
+
+#### More Links
+[ON MARKDOWN](https://ultragamerine.github.io/FirstTry/extra_README.md)
