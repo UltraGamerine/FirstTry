@@ -37,7 +37,7 @@ Vocative       -        -       -
 
 यह   <span style="color:green">राम के लिए</span>  है
 
-This is for Rāma.
+This is <span style="color:green">for Rāma</span>.
 
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
 
