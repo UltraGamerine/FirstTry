@@ -1,6 +1,4 @@
 ---
-layout: post
-title: extra_README.md
 theme: jekyll-theme-cayman
 ---
 
