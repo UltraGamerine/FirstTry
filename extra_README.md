@@ -1,6 +1,8 @@
+---
 layout: page
-title: "PAGE TITLE"
-permalink: https://ultragamerine.github.io/FirstTry/extra_README.md
+title: learningHtml
+theme: theme: jekyll-theme-cayman
+---
 
 ## Welcome to GitHub Pages
 
