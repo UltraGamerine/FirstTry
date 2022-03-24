@@ -26,10 +26,12 @@ Genetive       of       का     अस्य
 Locative       in/on   मे/पर     ए
 Vocative       -        -       -
 ```
-`राम + आय = रामाय`
-एतत्    <span style="color:green">रामाय</span>  अस्ति 
-यह   <span style="color:green">राम के लिए</span>  है
 
+`राम + आय = रामाय`
+
+एतत्    <span style="color:green">रामाय</span>  अस्ति
+
+यह   <span style="color:green">राम के लिए</span>  है
 
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
 
