@@ -33,7 +33,19 @@ Vocative       -        -       -
 
 यह   <span style="color:green">राम के लिए</span>  है
 
+This is for Rāma.
+
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
+
+<br></br>
+Wondering what is "ā" and what's the difference between "ā" & "a" ?
+#### A Quick Guide - Roman script for Sanskrit
+![image](https://user-images.githubusercontent.com/64453040/159905470-62b13d48-7436-4f06-b30b-16e50a5ee65b.png)
+
+![image](https://user-images.githubusercontent.com/64453040/159905540-dc3c831c-30c4-4a8a-9c14-552166670780.png)
+
+![image](https://user-images.githubusercontent.com/64453040/159905297-53a31381-1853-4cd2-a982-61262d206e39.png)
+
 
 ### Support or Contact
 Coming Soon!
