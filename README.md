@@ -4,7 +4,7 @@
 
 And it is going to be super **Intuitive!**
 
-## LEarn Sanskrit Has Never Been This Easy!
+## Learning Sanskrit Has Never Been This Easy!
 Take easy steps. Learn about Noun Cases, and the Verb paradigm consisting of Moods, Aspects, and Tenses.
 
 ### Markdown
