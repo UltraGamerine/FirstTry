@@ -38,7 +38,7 @@ This is for Rāma.
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
 
 
-Wondering what is "ā" and what's the difference between "ā" & "a" ?
+Wondering what is "ā" and what's the difference between ' ā ' & ' a ' ?
 #### A Quick Guide - Roman script for Sanskrit
 ![image](https://user-images.githubusercontent.com/64453040/159905470-62b13d48-7436-4f06-b30b-16e50a5ee65b.png)
 
