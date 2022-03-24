@@ -29,7 +29,5 @@ Vocative       -        -       -
 
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
 
-###
-
 ### Support or Contact
 Coming Soon!
