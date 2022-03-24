@@ -24,7 +24,7 @@ Dative         for    के लिए    आय
 Ablative       from     से      आत्
 Genetive       of       का     अस्य
 Locative       in/on   मे/पर     ए
-Vocative
+Vocative       -        -       -
 ```
 
 For more details see [nominal case charts on Ashtadhyayi.com](https://ashtadhyayi.com/shabda/01.002).
