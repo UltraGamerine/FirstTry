@@ -56,3 +56,5 @@ Coming Soon!
 
 #### More Links
 [ON MARKDOWN](https://ultragamerine.github.io/FirstTry/extra_README.md)
+
+https://ultragamerine.github.io/FirstTry/
